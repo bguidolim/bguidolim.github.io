@@ -1,0 +1,68 @@
+html, body {
+	margin: 0 0 20px 0;
+	padding: 0;
+	width: 100%;
+	font-family: 'roboto', sans-serif;
+	color: #ffffff;
+	background-color: #34495e;
+}
+
+h1 {
+	font-weight: 700;
+	font-size: 32px;
+}
+
+h3 {
+	font-weight: 300;
+	font-size: 19px;
+	margin-top: -20px;
+}
+
+a {
+	display: inline-block;
+	margin: 15px 15px;
+}
+
+a:link, a:visited, a:active, a:hover {
+	color: #ffffff;
+}
+
+#wrapper {
+	width: 548px;
+	margin: 0px auto;
+}
+
+.profile-pic {
+	width: 548px;
+	margin: 50px auto 0px;
+	text-align: center;
+}
+
+.profile-pic img {
+	-webkit-border-radius: 200px;
+	-moz-border-radius: 200px;
+	border-radius: 200px;
+	width: 250px;
+	margin: 0px auto;
+}
+
+.apps {
+	width: 548px;
+	margin: 0px auto;
+	text-align: center;
+	padding-top: 20px;
+}
+
+.apps img {
+	width: 150px;
+	height: 150px;
+	-webkit-border-radius: 25%;
+	-moz-border-radius: 25%;
+	border-radius: 25%;
+}
+
+.contact {
+	width: 548px;
+	text-align: center;
+	font-size: 14px;
+}
